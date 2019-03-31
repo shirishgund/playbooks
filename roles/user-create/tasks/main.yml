@@ -3,6 +3,6 @@
   user:
     name: "{{ sname }}"
     password: "{{ 'abc123' }}"
-#    comment: "{{ sfull }}"
+    comment: "{{ sfull }}"
     shell: /bin/bash
     
