@@ -1,8 +1,8 @@
 ---
 - name: create user
   user:
-    name: {{ sname }}
-    password: "{{ 'abc123' }}"
-    comment: {{ sfull }}
+    name: girish
+    password: "{{ 'girish' }}"
+    comment: girishgund
     shell: /bin/bash
     
